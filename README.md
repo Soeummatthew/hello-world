@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+eng 235 technical writing
